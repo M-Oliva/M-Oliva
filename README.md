@@ -9,5 +9,5 @@ Love working with:
   - Excel
   - Tableau and Power BI
 
-Currently, you can found me learning about coding in Python.
+Currently, you can find me learning about coding in Python.
 
